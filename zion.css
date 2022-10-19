@@ -1,0 +1,19 @@
+body{background-color: darkslateblue;
+background-image: url(jeru.jpg);
+background-size: cover;}
+h1{text-align: center; font-size:100px; 
+font-family:Cambria, serif;
+color:rgb(247, 247, 247)}
+
+p{text-align: center; font-size: larger;
+display: block;
+margin: 10px;
+border: 1px;
+padding:0.5%;}
+a{color:  rgb(240, 202, 152);}
+div{border: solid rgb(11, 20, 143) 1px;
+width: 50%;
+margin-left:25%;
+background-color: rgb(165, 86, 175);}
+
+footer{text-align: center;}
